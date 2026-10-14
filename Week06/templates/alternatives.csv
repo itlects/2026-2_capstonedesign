@@ -1,0 +1,3 @@
+issue_id,alternative,expected_effect_1to5,effort_1to5,risk_1to5,testability_1to5,decision,reason
+ISSUE-01,A,,,,,,
+ISSUE-01,B,,,,,,
