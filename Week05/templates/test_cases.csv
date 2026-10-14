@@ -1,0 +1,4 @@
+test_id,requirement_id,wbs_id,test_type,input_conditions,expected_result,actual_result,pass_fail,evidence_url,owner,run_date,notes
+TC-01,FR-01,W05-01,normal,,,,,,,
+TC-02,FR-01,W05-01,error,,,,,,,
+TC-03,FR-01,W05-01,boundary,,,,,,,
