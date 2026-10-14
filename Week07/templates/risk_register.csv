@@ -1,0 +1,2 @@
+Risk_ID,Description,Likelihood_1_5,Impact_1_5,Mitigation,Owner,Due_Date,Verification,Status
+R-01,예시_통합 시험 지연,3,4,통합시험 계획 수립,예시_담당,,시험보고서,대응계획

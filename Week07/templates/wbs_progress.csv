@@ -1,0 +1,2 @@
+WBS_ID,Task,Owner,Weight,Verified_Completion_Percent,Evidence_URL,Status,Next_Action
+WBS-01,예시_작업,예시_담당,2,0,,미확인,시험 후 증빙 등록

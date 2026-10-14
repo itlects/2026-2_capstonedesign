@@ -1,0 +1,2 @@
+FR_ID,Requirement,WBS_ID,Owner,Test_ID,Expected,Actual,Evidence_URL,Status,Checked_At
+FR-01,예시_요구사항,WBS-01,예시_담당,TC-01,예시_기대,미실측,,미확인,
