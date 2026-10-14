@@ -1,0 +1,2 @@
+issue_id,fr_id,wbs_id,expected,observed,fact_evidence_url,impact,hypothesis,validation_test,decision_status
+ISSUE-01,FR-01,WBS-01,,,,,,,
