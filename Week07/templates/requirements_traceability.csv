@@ -1,2 +1,6 @@
-FR_ID,Requirement,WBS_ID,Owner,Test_ID,Expected,Actual,Evidence_URL,Status,Checked_At
-FR-01,예시_요구사항,WBS-01,예시_담당,TC-01,예시_기대,미실측,,미확인,
+﻿FR ID,요구사항,WBS ID,담당,TC ID,기대 결과,실제 결과,증빙 URL,상태(미착수/진행중/검증완료/차단/미확인),확인일
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

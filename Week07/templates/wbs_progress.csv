@@ -1,2 +1,6 @@
-WBS_ID,Task,Owner,Weight,Verified_Completion_Percent,Evidence_URL,Status,Next_Action
-WBS-01,예시_작업,예시_담당,2,0,,미확인,시험 후 증빙 등록
+﻿WBS ID,작업명,담당,가중치(1~3),검증된 완료율(0~100),증빙 URL,상태(미착수/진행중/검증완료/차단/미확인),다음 조치
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
